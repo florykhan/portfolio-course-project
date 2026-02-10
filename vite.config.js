@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
     plugins: [react()],
-    // Relative base so the app works on any path (e.g. github.io/repo-name/)
-    base: "./",
+    // Must match GitHub Pages URL: https://<user>.github.io/portfolio-course-project/
+    base: "/portfolio-course-project/",
 })
