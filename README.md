@@ -6,7 +6,7 @@ This is a responsive one-page portfolio website built with React and Vite. It sh
 
 Check it out here: [florykhan.github.io](https://florykhan.github.io/portfolio-course-project/)
 
-![Portfolio screenshot](../public/portfolio-website.png)
+![Portfolio screenshot](./public/portfolio-website.png)
 _One-page portfolio: hero, featured projects, skills, and contact_
 
 ## Technologies Used
